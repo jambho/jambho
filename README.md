@@ -1,4 +1,9 @@
-### Hi there 👋
+### About Me
+Hello! My name is Jamal, I am a computer engineering student at SDSU. 
+
+I'm proficient in C++, C, Java, Javascript, and Python.
+
+I am currently learning embedded systems programming and Verilog.
 
 <!--
 **jambho/jambho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
